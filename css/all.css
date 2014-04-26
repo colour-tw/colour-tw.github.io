@@ -521,11 +521,11 @@ html {
 }
 .footer .logo {
   background: url(../images/logo-footer.png);
-  height: 219px;
-  width: 180px;
+  height: 150px;
+  width: 123px;
   position: absolute;
   top: 5em;
-  left: 4em;
+  left: 5em;
 }
 .footer .information {
   position: absolute;
@@ -551,9 +551,9 @@ html {
 }
 .footer .sale {
   position: absolute;
-  width: 450px;
+  width: 470px;
   top: 5em;
-  right: 3em;
+  right: 2.5em;
   border: 1px solid white;
 }
 .footer .sale img {
