@@ -673,10 +673,11 @@ html {
 }
 
 .donna {
-  padding-left: 5.5%;
+  padding-left: 17.02128%;
+  padding-right: 8.51064%;
   width: 28.7234%;
   float: left;
-  margin-right: 1.5%;
+  margin-right: 2.12766%;
   display: inline;
 }
 .donna h3 {
@@ -691,29 +692,14 @@ html {
 .violet {
   width: 28.7234%;
   float: left;
-  margin-right: 1.5%;
+  margin-right: 2.12766%;
   display: inline;
 }
 .violet h3 {
-  text-align: center;
+  text-align: left;
   padding-left: 1em;
 }
 .violet li {
-  text-align: left;
-  padding-left: 3em;
-}
-
-.risa {
-  width: 28.7234%;
-  float: left;
-  margin-right: 1.5%;
-  display: inline;
-}
-.risa h3 {
-  text-align: left;
-  padding-left: 1em;
-}
-.risa li {
   text-align: left;
   padding-left: 3em;
 }
